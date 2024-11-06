@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc1b4a1c6c6de1c4fa3ac5725d1ef311, type: 3}
+  m_Name: ColumGreek
+  m_EditorClassIdentifier: 
+  ItemName: ColumGreek
+  ItemImage: {fileID: 21300000, guid: 322013cc7b1d2ca48971bad1435235b1, type: 3}
+  ItemDescription: Un Pilar
+  Item3DModel: {fileID: 4585646682320031324, guid: d6a87081b178076468cdfd424aff601e, type: 3}
